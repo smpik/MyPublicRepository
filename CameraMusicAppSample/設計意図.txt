@@ -1,0 +1,5 @@
+WebCamControllerにてカメラ映像から手を検出←実装済みだが精度悪
+↓
+HandObjectManagerにて検出された手の位置に「HandObject(透明なCube)」を生成←実装済み
+↓
+あらかじめ引いた線に接触したら、音を鳴らす←未実装
